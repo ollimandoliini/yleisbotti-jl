@@ -1,0 +1,10 @@
+name = "yleisbotti-jl"
+uuid = "fdc90a68-b7a0-11e9-232a-a1a7f54c61f6"
+authors = ["Olli Kortelahti <okortelahti@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DotEnv = "4dc1fcf4-5e3b-5448-94ab-0c38ec0385c1"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+JuliaWebAPI = "480116ec-64ea-5dec-baca-db6b11e96e37"
